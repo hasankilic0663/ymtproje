@@ -1,0 +1,351 @@
+C:\Users\Hasan\source\repos\HastaneProjesi_NTP\HastaneProjesi_NTP\bin\Debug\HastaneProjesi_NTP.exe.config
+C:\Users\Hasan\source\repos\HastaneProjesi_NTP\HastaneProjesi_NTP\bin\Debug\HastaneProjesi_NTP.exe
+C:\Users\Hasan\source\repos\HastaneProjesi_NTP\HastaneProjesi_NTP\bin\Debug\HastaneProjesi_NTP.pdb
+C:\Users\Hasan\source\repos\HastaneProjesi_NTP\HastaneProjesi_NTP\obj\Debug\HastaneProjesi_NTP.csprojAssemblyReference.cache
+C:\Users\Hasan\source\repos\HastaneProjesi_NTP\HastaneProjesi_NTP\obj\Debug\HastaneProjesi_NTP.Properties.Resources.resources
+C:\Users\Hasan\source\repos\HastaneProjesi_NTP\HastaneProjesi_NTP\obj\Debug\HastaneProjesi_NTP.csproj.GenerateResource.cache
+C:\Users\Hasan\source\repos\HastaneProjesi_NTP\HastaneProjesi_NTP\obj\Debug\HastaneProjesi_NTP.csproj.CoreCompileInputs.cache
+C:\Users\Hasan\source\repos\HastaneProjesi_NTP\HastaneProjesi_NTP\obj\Debug\HastaneProjesi_NTP.exe
+C:\Users\Hasan\source\repos\HastaneProjesi_NTP\HastaneProjesi_NTP\obj\Debug\HastaneProjesi_NTP.pdb
+C:\Users\Hasan\source\repos\HastaneProjesi_NTP\HastaneProjesi_NTP\bin\Debug\Bunifu_UI_v1.5.3.dll
+C:\Users\Hasan\source\repos\HastaneProjesi_NTP\HastaneProjesi_NTP\bin\Debug\Guna.UI.dll
+C:\Users\Hasan\source\repos\HastaneProjesi_NTP\HastaneProjesi_NTP\bin\Debug\Bunifu_UI_v1.5.3.xml
+C:\Users\Hasan\source\repos\HastaneProjesi_NTP\HastaneProjesi_NTP\obj\Debug\HastaneProjesi_NTP.Form1.resources
+C:\Users\Hasan\source\repos\HastaneProjesi_NTP\HastaneProjesi_NTP\obj\Debug\HastaneProjesi_NTP.csproj.CopyComplete
+C:\Users\Hasan\source\repos\HastaneProjesi_NTP\HastaneProjesi_NTP\bin\Debug\Guna.UI2.dll
+C:\Users\Hasan\source\repos\HastaneProjesi_NTP\HastaneProjesi_NTP\obj\Debug\HastaneProjesi_NTP.Formlar.sifreUnuttum.resources
+C:\Users\Hasan\source\repos\HastaneProjesi_NTP\HastaneProjesi_NTP\obj\Debug\HastaneProjesi_NTP.Formlar.sifreyenile.resources
+C:\Users\Hasan\source\repos\HastaneProjesi_NTP\HastaneProjesi_NTP\obj\Debug\HastaneProjesi_NTP.Formlar.anasayfa.resources
+C:\Users\Hasan\source\repos\HastaneProjesi_NTP\HastaneProjesi_NTP\bin\Debug\DevExpress.Data.Desktop.v21.2.dll
+C:\Users\Hasan\source\repos\HastaneProjesi_NTP\HastaneProjesi_NTP\bin\Debug\DevExpress.Data.v21.2.dll
+C:\Users\Hasan\source\repos\HastaneProjesi_NTP\HastaneProjesi_NTP\bin\Debug\DevExpress.Printing.v21.2.Core.dll
+C:\Users\Hasan\source\repos\HastaneProjesi_NTP\HastaneProjesi_NTP\bin\Debug\DevExpress.Sparkline.v21.2.Core.dll
+C:\Users\Hasan\source\repos\HastaneProjesi_NTP\HastaneProjesi_NTP\bin\Debug\DevExpress.Utils.v21.2.dll
+C:\Users\Hasan\source\repos\HastaneProjesi_NTP\HastaneProjesi_NTP\bin\Debug\DevExpress.XtraEditors.v21.2.dll
+C:\Users\Hasan\source\repos\HastaneProjesi_NTP\HastaneProjesi_NTP\bin\Debug\DevExpress.Pdf.v21.2.Core.dll
+C:\Users\Hasan\source\repos\HastaneProjesi_NTP\HastaneProjesi_NTP\bin\Debug\DevExpress.Pdf.v21.2.Drawing.dll
+C:\Users\Hasan\source\repos\HastaneProjesi_NTP\HastaneProjesi_NTP\bin\Debug\DevExpress.Data.Desktop.v21.2.xml
+C:\Users\Hasan\source\repos\HastaneProjesi_NTP\HastaneProjesi_NTP\bin\Debug\DevExpress.Data.v21.2.xml
+C:\Users\Hasan\source\repos\HastaneProjesi_NTP\HastaneProjesi_NTP\bin\Debug\DevExpress.Printing.v21.2.Core.xml
+C:\Users\Hasan\source\repos\HastaneProjesi_NTP\HastaneProjesi_NTP\bin\Debug\DevExpress.Sparkline.v21.2.Core.xml
+C:\Users\Hasan\source\repos\HastaneProjesi_NTP\HastaneProjesi_NTP\bin\Debug\DevExpress.Utils.v21.2.xml
+C:\Users\Hasan\source\repos\HastaneProjesi_NTP\HastaneProjesi_NTP\bin\Debug\DevExpress.XtraEditors.v21.2.xml
+C:\Users\Hasan\source\repos\HastaneProjesi_NTP\HastaneProjesi_NTP\bin\Debug\DevExpress.Pdf.v21.2.Core.xml
+C:\Users\Hasan\source\repos\HastaneProjesi_NTP\HastaneProjesi_NTP\bin\Debug\DevExpress.Pdf.v21.2.Drawing.xml
+C:\Users\Hasan\source\repos\HastaneProjesi_NTP\HastaneProjesi_NTP\bin\Debug\de\DevExpress.Data.v21.2.resources.dll
+C:\Users\Hasan\source\repos\HastaneProjesi_NTP\HastaneProjesi_NTP\bin\Debug\es\DevExpress.Data.v21.2.resources.dll
+C:\Users\Hasan\source\repos\HastaneProjesi_NTP\HastaneProjesi_NTP\bin\Debug\ja\DevExpress.Data.v21.2.resources.dll
+C:\Users\Hasan\source\repos\HastaneProjesi_NTP\HastaneProjesi_NTP\bin\Debug\ru\DevExpress.Data.v21.2.resources.dll
+C:\Users\Hasan\source\repos\HastaneProjesi_NTP\HastaneProjesi_NTP\bin\Debug\de\DevExpress.Printing.v21.2.Core.resources.dll
+C:\Users\Hasan\source\repos\HastaneProjesi_NTP\HastaneProjesi_NTP\bin\Debug\es\DevExpress.Printing.v21.2.Core.resources.dll
+C:\Users\Hasan\source\repos\HastaneProjesi_NTP\HastaneProjesi_NTP\bin\Debug\ja\DevExpress.Printing.v21.2.Core.resources.dll
+C:\Users\Hasan\source\repos\HastaneProjesi_NTP\HastaneProjesi_NTP\bin\Debug\ru\DevExpress.Printing.v21.2.Core.resources.dll
+C:\Users\Hasan\source\repos\HastaneProjesi_NTP\HastaneProjesi_NTP\bin\Debug\de\DevExpress.Sparkline.v21.2.Core.resources.dll
+C:\Users\Hasan\source\repos\HastaneProjesi_NTP\HastaneProjesi_NTP\bin\Debug\es\DevExpress.Sparkline.v21.2.Core.resources.dll
+C:\Users\Hasan\source\repos\HastaneProjesi_NTP\HastaneProjesi_NTP\bin\Debug\ja\DevExpress.Sparkline.v21.2.Core.resources.dll
+C:\Users\Hasan\source\repos\HastaneProjesi_NTP\HastaneProjesi_NTP\bin\Debug\ru\DevExpress.Sparkline.v21.2.Core.resources.dll
+C:\Users\Hasan\source\repos\HastaneProjesi_NTP\HastaneProjesi_NTP\bin\Debug\de\DevExpress.Utils.v21.2.resources.dll
+C:\Users\Hasan\source\repos\HastaneProjesi_NTP\HastaneProjesi_NTP\bin\Debug\es\DevExpress.Utils.v21.2.resources.dll
+C:\Users\Hasan\source\repos\HastaneProjesi_NTP\HastaneProjesi_NTP\bin\Debug\ja\DevExpress.Utils.v21.2.resources.dll
+C:\Users\Hasan\source\repos\HastaneProjesi_NTP\HastaneProjesi_NTP\bin\Debug\ru\DevExpress.Utils.v21.2.resources.dll
+C:\Users\Hasan\source\repos\HastaneProjesi_NTP\HastaneProjesi_NTP\bin\Debug\de\DevExpress.XtraEditors.v21.2.resources.dll
+C:\Users\Hasan\source\repos\HastaneProjesi_NTP\HastaneProjesi_NTP\bin\Debug\es\DevExpress.XtraEditors.v21.2.resources.dll
+C:\Users\Hasan\source\repos\HastaneProjesi_NTP\HastaneProjesi_NTP\bin\Debug\ja\DevExpress.XtraEditors.v21.2.resources.dll
+C:\Users\Hasan\source\repos\HastaneProjesi_NTP\HastaneProjesi_NTP\bin\Debug\ru\DevExpress.XtraEditors.v21.2.resources.dll
+C:\Users\Hasan\source\repos\HastaneProjesi_NTP\HastaneProjesi_NTP\bin\Debug\de\DevExpress.Pdf.v21.2.Core.resources.dll
+C:\Users\Hasan\source\repos\HastaneProjesi_NTP\HastaneProjesi_NTP\bin\Debug\es\DevExpress.Pdf.v21.2.Core.resources.dll
+C:\Users\Hasan\source\repos\HastaneProjesi_NTP\HastaneProjesi_NTP\bin\Debug\ja\DevExpress.Pdf.v21.2.Core.resources.dll
+C:\Users\Hasan\source\repos\HastaneProjesi_NTP\HastaneProjesi_NTP\bin\Debug\ru\DevExpress.Pdf.v21.2.Core.resources.dll
+C:\Users\Hasan\source\repos\HastaneProjesi_NTP\HastaneProjesi_NTP\obj\Debug\HastaneProjesi_NTP.Formlar.KayıtEkle.resources
+C:\Users\Hasan\source\repos\HastaneProjesi_NTP\HastaneProjesi_NTP\obj\Debug\HastaneProjesi_NTP.Formlar.RandevuVer.resources
+C:\Users\Hasan\source\repos\HastaneProjesi_NTP\HastaneProjesi_NTP\obj\Debug\HastaneProjesi_NTP.Formlar.KayıtDuzenle.resources
+C:\Users\Hasan\source\repos\HastaneProjesi_NTP\HastaneProjesi_NTP\obj\Debug\HastaneProjesi_NTP.Formlar.KayitSil.resources
+C:\Users\Hasan\source\repos\HastaneProjesi_NTP\HastaneProjesi_NTP\obj\Debug\HastaneProjesi_NTP.Formlar.AktifRandevular.resources
+C:\Users\Hasan\source\repos\HastaneProjesi_NTP\HastaneProjesi_NTP\obj\Debug\HastaneProjesi_NTP.Formlar.GecmisRandevular.resources
+C:\Users\Hasan\source\repos\HastaneProjesi_NTP\HastaneProjesi_NTP\obj\Debug\HastaneProjesi_NTP.Formlar.Destek.resources
+C:\Users\Hasan\source\repos\HastaneProjesi_NTP\HastaneProjesi_NTP\obj\Debug\HastaneProjesi_NTP.Formlar.RandevuSil.resources
+C:\Users\Hasan\source\repos\HastaneProjesi_NTP\HastaneProjesi_NTP\obj\Debug\HastaneProjesi_NTP.AnimasyonGirisEkranı.resources
+C:\Users\Hasan\Desktop\son yedek ntp - Kopya\HastaneProjesi_NTP\HastaneProjesi_NTP\bin\Debug\HastaneProjesi_NTP.exe.config
+C:\Users\Hasan\Desktop\son yedek ntp - Kopya\HastaneProjesi_NTP\HastaneProjesi_NTP\bin\Debug\HastaneProjesi_NTP.exe
+C:\Users\Hasan\Desktop\son yedek ntp - Kopya\HastaneProjesi_NTP\HastaneProjesi_NTP\bin\Debug\HastaneProjesi_NTP.pdb
+C:\Users\Hasan\Desktop\son yedek ntp - Kopya\HastaneProjesi_NTP\HastaneProjesi_NTP\bin\Debug\Bunifu_UI_v1.5.3.dll
+C:\Users\Hasan\Desktop\son yedek ntp - Kopya\HastaneProjesi_NTP\HastaneProjesi_NTP\bin\Debug\DevExpress.Data.Desktop.v21.2.dll
+C:\Users\Hasan\Desktop\son yedek ntp - Kopya\HastaneProjesi_NTP\HastaneProjesi_NTP\bin\Debug\DevExpress.Data.v21.2.dll
+C:\Users\Hasan\Desktop\son yedek ntp - Kopya\HastaneProjesi_NTP\HastaneProjesi_NTP\bin\Debug\DevExpress.Printing.v21.2.Core.dll
+C:\Users\Hasan\Desktop\son yedek ntp - Kopya\HastaneProjesi_NTP\HastaneProjesi_NTP\bin\Debug\DevExpress.Sparkline.v21.2.Core.dll
+C:\Users\Hasan\Desktop\son yedek ntp - Kopya\HastaneProjesi_NTP\HastaneProjesi_NTP\bin\Debug\DevExpress.Utils.v21.2.dll
+C:\Users\Hasan\Desktop\son yedek ntp - Kopya\HastaneProjesi_NTP\HastaneProjesi_NTP\bin\Debug\DevExpress.XtraEditors.v21.2.dll
+C:\Users\Hasan\Desktop\son yedek ntp - Kopya\HastaneProjesi_NTP\HastaneProjesi_NTP\bin\Debug\Guna.UI.dll
+C:\Users\Hasan\Desktop\son yedek ntp - Kopya\HastaneProjesi_NTP\HastaneProjesi_NTP\bin\Debug\Guna.UI2.dll
+C:\Users\Hasan\Desktop\son yedek ntp - Kopya\HastaneProjesi_NTP\HastaneProjesi_NTP\bin\Debug\DevExpress.Pdf.v21.2.Core.dll
+C:\Users\Hasan\Desktop\son yedek ntp - Kopya\HastaneProjesi_NTP\HastaneProjesi_NTP\bin\Debug\DevExpress.Pdf.v21.2.Drawing.dll
+C:\Users\Hasan\Desktop\son yedek ntp - Kopya\HastaneProjesi_NTP\HastaneProjesi_NTP\bin\Debug\Bunifu_UI_v1.5.3.xml
+C:\Users\Hasan\Desktop\son yedek ntp - Kopya\HastaneProjesi_NTP\HastaneProjesi_NTP\bin\Debug\DevExpress.Data.Desktop.v21.2.xml
+C:\Users\Hasan\Desktop\son yedek ntp - Kopya\HastaneProjesi_NTP\HastaneProjesi_NTP\bin\Debug\DevExpress.Data.v21.2.xml
+C:\Users\Hasan\Desktop\son yedek ntp - Kopya\HastaneProjesi_NTP\HastaneProjesi_NTP\bin\Debug\DevExpress.Printing.v21.2.Core.xml
+C:\Users\Hasan\Desktop\son yedek ntp - Kopya\HastaneProjesi_NTP\HastaneProjesi_NTP\bin\Debug\DevExpress.Sparkline.v21.2.Core.xml
+C:\Users\Hasan\Desktop\son yedek ntp - Kopya\HastaneProjesi_NTP\HastaneProjesi_NTP\bin\Debug\DevExpress.Utils.v21.2.xml
+C:\Users\Hasan\Desktop\son yedek ntp - Kopya\HastaneProjesi_NTP\HastaneProjesi_NTP\bin\Debug\DevExpress.XtraEditors.v21.2.xml
+C:\Users\Hasan\Desktop\son yedek ntp - Kopya\HastaneProjesi_NTP\HastaneProjesi_NTP\bin\Debug\DevExpress.Pdf.v21.2.Core.xml
+C:\Users\Hasan\Desktop\son yedek ntp - Kopya\HastaneProjesi_NTP\HastaneProjesi_NTP\bin\Debug\DevExpress.Pdf.v21.2.Drawing.xml
+C:\Users\Hasan\Desktop\son yedek ntp - Kopya\HastaneProjesi_NTP\HastaneProjesi_NTP\bin\Debug\de\DevExpress.Data.v21.2.resources.dll
+C:\Users\Hasan\Desktop\son yedek ntp - Kopya\HastaneProjesi_NTP\HastaneProjesi_NTP\bin\Debug\es\DevExpress.Data.v21.2.resources.dll
+C:\Users\Hasan\Desktop\son yedek ntp - Kopya\HastaneProjesi_NTP\HastaneProjesi_NTP\bin\Debug\ja\DevExpress.Data.v21.2.resources.dll
+C:\Users\Hasan\Desktop\son yedek ntp - Kopya\HastaneProjesi_NTP\HastaneProjesi_NTP\bin\Debug\ru\DevExpress.Data.v21.2.resources.dll
+C:\Users\Hasan\Desktop\son yedek ntp - Kopya\HastaneProjesi_NTP\HastaneProjesi_NTP\bin\Debug\de\DevExpress.Printing.v21.2.Core.resources.dll
+C:\Users\Hasan\Desktop\son yedek ntp - Kopya\HastaneProjesi_NTP\HastaneProjesi_NTP\bin\Debug\es\DevExpress.Printing.v21.2.Core.resources.dll
+C:\Users\Hasan\Desktop\son yedek ntp - Kopya\HastaneProjesi_NTP\HastaneProjesi_NTP\bin\Debug\ja\DevExpress.Printing.v21.2.Core.resources.dll
+C:\Users\Hasan\Desktop\son yedek ntp - Kopya\HastaneProjesi_NTP\HastaneProjesi_NTP\bin\Debug\ru\DevExpress.Printing.v21.2.Core.resources.dll
+C:\Users\Hasan\Desktop\son yedek ntp - Kopya\HastaneProjesi_NTP\HastaneProjesi_NTP\bin\Debug\de\DevExpress.Sparkline.v21.2.Core.resources.dll
+C:\Users\Hasan\Desktop\son yedek ntp - Kopya\HastaneProjesi_NTP\HastaneProjesi_NTP\bin\Debug\es\DevExpress.Sparkline.v21.2.Core.resources.dll
+C:\Users\Hasan\Desktop\son yedek ntp - Kopya\HastaneProjesi_NTP\HastaneProjesi_NTP\bin\Debug\ja\DevExpress.Sparkline.v21.2.Core.resources.dll
+C:\Users\Hasan\Desktop\son yedek ntp - Kopya\HastaneProjesi_NTP\HastaneProjesi_NTP\bin\Debug\ru\DevExpress.Sparkline.v21.2.Core.resources.dll
+C:\Users\Hasan\Desktop\son yedek ntp - Kopya\HastaneProjesi_NTP\HastaneProjesi_NTP\bin\Debug\de\DevExpress.Utils.v21.2.resources.dll
+C:\Users\Hasan\Desktop\son yedek ntp - Kopya\HastaneProjesi_NTP\HastaneProjesi_NTP\bin\Debug\es\DevExpress.Utils.v21.2.resources.dll
+C:\Users\Hasan\Desktop\son yedek ntp - Kopya\HastaneProjesi_NTP\HastaneProjesi_NTP\bin\Debug\ja\DevExpress.Utils.v21.2.resources.dll
+C:\Users\Hasan\Desktop\son yedek ntp - Kopya\HastaneProjesi_NTP\HastaneProjesi_NTP\bin\Debug\ru\DevExpress.Utils.v21.2.resources.dll
+C:\Users\Hasan\Desktop\son yedek ntp - Kopya\HastaneProjesi_NTP\HastaneProjesi_NTP\bin\Debug\de\DevExpress.XtraEditors.v21.2.resources.dll
+C:\Users\Hasan\Desktop\son yedek ntp - Kopya\HastaneProjesi_NTP\HastaneProjesi_NTP\bin\Debug\es\DevExpress.XtraEditors.v21.2.resources.dll
+C:\Users\Hasan\Desktop\son yedek ntp - Kopya\HastaneProjesi_NTP\HastaneProjesi_NTP\bin\Debug\ja\DevExpress.XtraEditors.v21.2.resources.dll
+C:\Users\Hasan\Desktop\son yedek ntp - Kopya\HastaneProjesi_NTP\HastaneProjesi_NTP\bin\Debug\ru\DevExpress.XtraEditors.v21.2.resources.dll
+C:\Users\Hasan\Desktop\son yedek ntp - Kopya\HastaneProjesi_NTP\HastaneProjesi_NTP\bin\Debug\de\DevExpress.Pdf.v21.2.Core.resources.dll
+C:\Users\Hasan\Desktop\son yedek ntp - Kopya\HastaneProjesi_NTP\HastaneProjesi_NTP\bin\Debug\es\DevExpress.Pdf.v21.2.Core.resources.dll
+C:\Users\Hasan\Desktop\son yedek ntp - Kopya\HastaneProjesi_NTP\HastaneProjesi_NTP\bin\Debug\ja\DevExpress.Pdf.v21.2.Core.resources.dll
+C:\Users\Hasan\Desktop\son yedek ntp - Kopya\HastaneProjesi_NTP\HastaneProjesi_NTP\bin\Debug\ru\DevExpress.Pdf.v21.2.Core.resources.dll
+C:\Users\Hasan\Desktop\son yedek ntp - Kopya\HastaneProjesi_NTP\HastaneProjesi_NTP\obj\Debug\HastaneProjesi_NTP.csprojAssemblyReference.cache
+C:\Users\Hasan\Desktop\son yedek ntp - Kopya\HastaneProjesi_NTP\HastaneProjesi_NTP\obj\Debug\HastaneProjesi_NTP.AnimasyonGirisEkranı.resources
+C:\Users\Hasan\Desktop\son yedek ntp - Kopya\HastaneProjesi_NTP\HastaneProjesi_NTP\obj\Debug\HastaneProjesi_NTP.Form1.resources
+C:\Users\Hasan\Desktop\son yedek ntp - Kopya\HastaneProjesi_NTP\HastaneProjesi_NTP\obj\Debug\HastaneProjesi_NTP.Formlar.AktifRandevular.resources
+C:\Users\Hasan\Desktop\son yedek ntp - Kopya\HastaneProjesi_NTP\HastaneProjesi_NTP\obj\Debug\HastaneProjesi_NTP.Formlar.anasayfa.resources
+C:\Users\Hasan\Desktop\son yedek ntp - Kopya\HastaneProjesi_NTP\HastaneProjesi_NTP\obj\Debug\HastaneProjesi_NTP.Formlar.Destek.resources
+C:\Users\Hasan\Desktop\son yedek ntp - Kopya\HastaneProjesi_NTP\HastaneProjesi_NTP\obj\Debug\HastaneProjesi_NTP.Formlar.GecmisRandevular.resources
+C:\Users\Hasan\Desktop\son yedek ntp - Kopya\HastaneProjesi_NTP\HastaneProjesi_NTP\obj\Debug\HastaneProjesi_NTP.Formlar.KayitSil.resources
+C:\Users\Hasan\Desktop\son yedek ntp - Kopya\HastaneProjesi_NTP\HastaneProjesi_NTP\obj\Debug\HastaneProjesi_NTP.Formlar.KayıtDuzenle.resources
+C:\Users\Hasan\Desktop\son yedek ntp - Kopya\HastaneProjesi_NTP\HastaneProjesi_NTP\obj\Debug\HastaneProjesi_NTP.Formlar.KayıtEkle.resources
+C:\Users\Hasan\Desktop\son yedek ntp - Kopya\HastaneProjesi_NTP\HastaneProjesi_NTP\obj\Debug\HastaneProjesi_NTP.Formlar.RandevuSil.resources
+C:\Users\Hasan\Desktop\son yedek ntp - Kopya\HastaneProjesi_NTP\HastaneProjesi_NTP\obj\Debug\HastaneProjesi_NTP.Formlar.RandevuVer.resources
+C:\Users\Hasan\Desktop\son yedek ntp - Kopya\HastaneProjesi_NTP\HastaneProjesi_NTP\obj\Debug\HastaneProjesi_NTP.Formlar.sifreUnuttum.resources
+C:\Users\Hasan\Desktop\son yedek ntp - Kopya\HastaneProjesi_NTP\HastaneProjesi_NTP\obj\Debug\HastaneProjesi_NTP.Formlar.sifreyenile.resources
+C:\Users\Hasan\Desktop\son yedek ntp - Kopya\HastaneProjesi_NTP\HastaneProjesi_NTP\obj\Debug\HastaneProjesi_NTP.Properties.Resources.resources
+C:\Users\Hasan\Desktop\son yedek ntp - Kopya\HastaneProjesi_NTP\HastaneProjesi_NTP\obj\Debug\HastaneProjesi_NTP.csproj.GenerateResource.cache
+C:\Users\Hasan\Desktop\son yedek ntp - Kopya\HastaneProjesi_NTP\HastaneProjesi_NTP\obj\Debug\HastaneProjesi_NTP.csproj.CoreCompileInputs.cache
+C:\Users\Hasan\Desktop\son yedek ntp - Kopya\HastaneProjesi_NTP\HastaneProjesi_NTP\obj\Debug\HastaneProjesi_NTP.csproj.CopyComplete
+C:\Users\Hasan\Desktop\son yedek ntp - Kopya\HastaneProjesi_NTP\HastaneProjesi_NTP\obj\Debug\HastaneProjesi_NTP.exe
+C:\Users\Hasan\Desktop\son yedek ntp - Kopya\HastaneProjesi_NTP\HastaneProjesi_NTP\obj\Debug\HastaneProjesi_NTP.pdb
+C:\Users\Hasan\Desktop\son yedek ntp - Kopya\HastaneProjesi_NTP\HastaneProjesi_NTP\bin\Debug\HastaneVeriTABANI.mdf
+C:\Users\Hasan\Desktop\son yedek ntp - Kopya\HastaneProjesi_NTP\HastaneProjesi_NTP\bin\Debug\HastaneVeriTABANI_log.ldf
+C:\Users\Hasan\Desktop\NTP_220541109_HASAN HÜSEYİN KILIÇ\son yedek ntp - Kopya\HastaneProjesi_NTP\HastaneProjesi_NTP\bin\Debug\HastaneVeriTABANI.mdf
+C:\Users\Hasan\Desktop\NTP_220541109_HASAN HÜSEYİN KILIÇ\son yedek ntp - Kopya\HastaneProjesi_NTP\HastaneProjesi_NTP\bin\Debug\HastaneVeriTABANI_log.ldf
+C:\Users\Hasan\Desktop\NTP_220541109_HASAN HÜSEYİN KILIÇ\son yedek ntp - Kopya\HastaneProjesi_NTP\HastaneProjesi_NTP\bin\Debug\HastaneProjesi_NTP.exe.config
+C:\Users\Hasan\Desktop\NTP_220541109_HASAN HÜSEYİN KILIÇ\son yedek ntp - Kopya\HastaneProjesi_NTP\HastaneProjesi_NTP\bin\Debug\HastaneProjesi_NTP.exe
+C:\Users\Hasan\Desktop\NTP_220541109_HASAN HÜSEYİN KILIÇ\son yedek ntp - Kopya\HastaneProjesi_NTP\HastaneProjesi_NTP\bin\Debug\HastaneProjesi_NTP.pdb
+C:\Users\Hasan\Desktop\NTP_220541109_HASAN HÜSEYİN KILIÇ\son yedek ntp - Kopya\HastaneProjesi_NTP\HastaneProjesi_NTP\bin\Debug\Bunifu_UI_v1.5.3.dll
+C:\Users\Hasan\Desktop\NTP_220541109_HASAN HÜSEYİN KILIÇ\son yedek ntp - Kopya\HastaneProjesi_NTP\HastaneProjesi_NTP\bin\Debug\DevExpress.Data.Desktop.v21.2.dll
+C:\Users\Hasan\Desktop\NTP_220541109_HASAN HÜSEYİN KILIÇ\son yedek ntp - Kopya\HastaneProjesi_NTP\HastaneProjesi_NTP\bin\Debug\DevExpress.Data.v21.2.dll
+C:\Users\Hasan\Desktop\NTP_220541109_HASAN HÜSEYİN KILIÇ\son yedek ntp - Kopya\HastaneProjesi_NTP\HastaneProjesi_NTP\bin\Debug\DevExpress.Printing.v21.2.Core.dll
+C:\Users\Hasan\Desktop\NTP_220541109_HASAN HÜSEYİN KILIÇ\son yedek ntp - Kopya\HastaneProjesi_NTP\HastaneProjesi_NTP\bin\Debug\DevExpress.Sparkline.v21.2.Core.dll
+C:\Users\Hasan\Desktop\NTP_220541109_HASAN HÜSEYİN KILIÇ\son yedek ntp - Kopya\HastaneProjesi_NTP\HastaneProjesi_NTP\bin\Debug\DevExpress.Utils.v21.2.dll
+C:\Users\Hasan\Desktop\NTP_220541109_HASAN HÜSEYİN KILIÇ\son yedek ntp - Kopya\HastaneProjesi_NTP\HastaneProjesi_NTP\bin\Debug\DevExpress.XtraEditors.v21.2.dll
+C:\Users\Hasan\Desktop\NTP_220541109_HASAN HÜSEYİN KILIÇ\son yedek ntp - Kopya\HastaneProjesi_NTP\HastaneProjesi_NTP\bin\Debug\DevExpress.Pdf.v21.2.Core.dll
+C:\Users\Hasan\Desktop\NTP_220541109_HASAN HÜSEYİN KILIÇ\son yedek ntp - Kopya\HastaneProjesi_NTP\HastaneProjesi_NTP\bin\Debug\DevExpress.Pdf.v21.2.Drawing.dll
+C:\Users\Hasan\Desktop\NTP_220541109_HASAN HÜSEYİN KILIÇ\son yedek ntp - Kopya\HastaneProjesi_NTP\HastaneProjesi_NTP\bin\Debug\Bunifu_UI_v1.5.3.xml
+C:\Users\Hasan\Desktop\NTP_220541109_HASAN HÜSEYİN KILIÇ\son yedek ntp - Kopya\HastaneProjesi_NTP\HastaneProjesi_NTP\bin\Debug\DevExpress.Data.Desktop.v21.2.xml
+C:\Users\Hasan\Desktop\NTP_220541109_HASAN HÜSEYİN KILIÇ\son yedek ntp - Kopya\HastaneProjesi_NTP\HastaneProjesi_NTP\bin\Debug\DevExpress.Data.v21.2.xml
+C:\Users\Hasan\Desktop\NTP_220541109_HASAN HÜSEYİN KILIÇ\son yedek ntp - Kopya\HastaneProjesi_NTP\HastaneProjesi_NTP\bin\Debug\DevExpress.Printing.v21.2.Core.xml
+C:\Users\Hasan\Desktop\NTP_220541109_HASAN HÜSEYİN KILIÇ\son yedek ntp - Kopya\HastaneProjesi_NTP\HastaneProjesi_NTP\bin\Debug\DevExpress.Sparkline.v21.2.Core.xml
+C:\Users\Hasan\Desktop\NTP_220541109_HASAN HÜSEYİN KILIÇ\son yedek ntp - Kopya\HastaneProjesi_NTP\HastaneProjesi_NTP\bin\Debug\DevExpress.Utils.v21.2.xml
+C:\Users\Hasan\Desktop\NTP_220541109_HASAN HÜSEYİN KILIÇ\son yedek ntp - Kopya\HastaneProjesi_NTP\HastaneProjesi_NTP\bin\Debug\DevExpress.XtraEditors.v21.2.xml
+C:\Users\Hasan\Desktop\NTP_220541109_HASAN HÜSEYİN KILIÇ\son yedek ntp - Kopya\HastaneProjesi_NTP\HastaneProjesi_NTP\bin\Debug\DevExpress.Pdf.v21.2.Core.xml
+C:\Users\Hasan\Desktop\NTP_220541109_HASAN HÜSEYİN KILIÇ\son yedek ntp - Kopya\HastaneProjesi_NTP\HastaneProjesi_NTP\bin\Debug\DevExpress.Pdf.v21.2.Drawing.xml
+C:\Users\Hasan\Desktop\NTP_220541109_HASAN HÜSEYİN KILIÇ\son yedek ntp - Kopya\HastaneProjesi_NTP\HastaneProjesi_NTP\bin\Debug\de\DevExpress.Data.v21.2.resources.dll
+C:\Users\Hasan\Desktop\NTP_220541109_HASAN HÜSEYİN KILIÇ\son yedek ntp - Kopya\HastaneProjesi_NTP\HastaneProjesi_NTP\bin\Debug\es\DevExpress.Data.v21.2.resources.dll
+C:\Users\Hasan\Desktop\NTP_220541109_HASAN HÜSEYİN KILIÇ\son yedek ntp - Kopya\HastaneProjesi_NTP\HastaneProjesi_NTP\bin\Debug\ja\DevExpress.Data.v21.2.resources.dll
+C:\Users\Hasan\Desktop\NTP_220541109_HASAN HÜSEYİN KILIÇ\son yedek ntp - Kopya\HastaneProjesi_NTP\HastaneProjesi_NTP\bin\Debug\ru\DevExpress.Data.v21.2.resources.dll
+C:\Users\Hasan\Desktop\NTP_220541109_HASAN HÜSEYİN KILIÇ\son yedek ntp - Kopya\HastaneProjesi_NTP\HastaneProjesi_NTP\bin\Debug\de\DevExpress.Printing.v21.2.Core.resources.dll
+C:\Users\Hasan\Desktop\NTP_220541109_HASAN HÜSEYİN KILIÇ\son yedek ntp - Kopya\HastaneProjesi_NTP\HastaneProjesi_NTP\bin\Debug\es\DevExpress.Printing.v21.2.Core.resources.dll
+C:\Users\Hasan\Desktop\NTP_220541109_HASAN HÜSEYİN KILIÇ\son yedek ntp - Kopya\HastaneProjesi_NTP\HastaneProjesi_NTP\bin\Debug\ja\DevExpress.Printing.v21.2.Core.resources.dll
+C:\Users\Hasan\Desktop\NTP_220541109_HASAN HÜSEYİN KILIÇ\son yedek ntp - Kopya\HastaneProjesi_NTP\HastaneProjesi_NTP\bin\Debug\ru\DevExpress.Printing.v21.2.Core.resources.dll
+C:\Users\Hasan\Desktop\NTP_220541109_HASAN HÜSEYİN KILIÇ\son yedek ntp - Kopya\HastaneProjesi_NTP\HastaneProjesi_NTP\bin\Debug\de\DevExpress.Sparkline.v21.2.Core.resources.dll
+C:\Users\Hasan\Desktop\NTP_220541109_HASAN HÜSEYİN KILIÇ\son yedek ntp - Kopya\HastaneProjesi_NTP\HastaneProjesi_NTP\bin\Debug\es\DevExpress.Sparkline.v21.2.Core.resources.dll
+C:\Users\Hasan\Desktop\NTP_220541109_HASAN HÜSEYİN KILIÇ\son yedek ntp - Kopya\HastaneProjesi_NTP\HastaneProjesi_NTP\bin\Debug\ja\DevExpress.Sparkline.v21.2.Core.resources.dll
+C:\Users\Hasan\Desktop\NTP_220541109_HASAN HÜSEYİN KILIÇ\son yedek ntp - Kopya\HastaneProjesi_NTP\HastaneProjesi_NTP\bin\Debug\ru\DevExpress.Sparkline.v21.2.Core.resources.dll
+C:\Users\Hasan\Desktop\NTP_220541109_HASAN HÜSEYİN KILIÇ\son yedek ntp - Kopya\HastaneProjesi_NTP\HastaneProjesi_NTP\bin\Debug\de\DevExpress.Utils.v21.2.resources.dll
+C:\Users\Hasan\Desktop\NTP_220541109_HASAN HÜSEYİN KILIÇ\son yedek ntp - Kopya\HastaneProjesi_NTP\HastaneProjesi_NTP\bin\Debug\es\DevExpress.Utils.v21.2.resources.dll
+C:\Users\Hasan\Desktop\NTP_220541109_HASAN HÜSEYİN KILIÇ\son yedek ntp - Kopya\HastaneProjesi_NTP\HastaneProjesi_NTP\bin\Debug\ja\DevExpress.Utils.v21.2.resources.dll
+C:\Users\Hasan\Desktop\NTP_220541109_HASAN HÜSEYİN KILIÇ\son yedek ntp - Kopya\HastaneProjesi_NTP\HastaneProjesi_NTP\bin\Debug\ru\DevExpress.Utils.v21.2.resources.dll
+C:\Users\Hasan\Desktop\NTP_220541109_HASAN HÜSEYİN KILIÇ\son yedek ntp - Kopya\HastaneProjesi_NTP\HastaneProjesi_NTP\bin\Debug\de\DevExpress.XtraEditors.v21.2.resources.dll
+C:\Users\Hasan\Desktop\NTP_220541109_HASAN HÜSEYİN KILIÇ\son yedek ntp - Kopya\HastaneProjesi_NTP\HastaneProjesi_NTP\bin\Debug\es\DevExpress.XtraEditors.v21.2.resources.dll
+C:\Users\Hasan\Desktop\NTP_220541109_HASAN HÜSEYİN KILIÇ\son yedek ntp - Kopya\HastaneProjesi_NTP\HastaneProjesi_NTP\bin\Debug\ja\DevExpress.XtraEditors.v21.2.resources.dll
+C:\Users\Hasan\Desktop\NTP_220541109_HASAN HÜSEYİN KILIÇ\son yedek ntp - Kopya\HastaneProjesi_NTP\HastaneProjesi_NTP\bin\Debug\ru\DevExpress.XtraEditors.v21.2.resources.dll
+C:\Users\Hasan\Desktop\NTP_220541109_HASAN HÜSEYİN KILIÇ\son yedek ntp - Kopya\HastaneProjesi_NTP\HastaneProjesi_NTP\bin\Debug\de\DevExpress.Pdf.v21.2.Core.resources.dll
+C:\Users\Hasan\Desktop\NTP_220541109_HASAN HÜSEYİN KILIÇ\son yedek ntp - Kopya\HastaneProjesi_NTP\HastaneProjesi_NTP\bin\Debug\es\DevExpress.Pdf.v21.2.Core.resources.dll
+C:\Users\Hasan\Desktop\NTP_220541109_HASAN HÜSEYİN KILIÇ\son yedek ntp - Kopya\HastaneProjesi_NTP\HastaneProjesi_NTP\bin\Debug\ja\DevExpress.Pdf.v21.2.Core.resources.dll
+C:\Users\Hasan\Desktop\NTP_220541109_HASAN HÜSEYİN KILIÇ\son yedek ntp - Kopya\HastaneProjesi_NTP\HastaneProjesi_NTP\bin\Debug\ru\DevExpress.Pdf.v21.2.Core.resources.dll
+C:\Users\Hasan\Desktop\NTP_220541109_HASAN HÜSEYİN KILIÇ\son yedek ntp - Kopya\HastaneProjesi_NTP\HastaneProjesi_NTP\obj\Debug\HastaneProjesi_NTP.csprojAssemblyReference.cache
+C:\Users\Hasan\Desktop\NTP_220541109_HASAN HÜSEYİN KILIÇ\son yedek ntp - Kopya\HastaneProjesi_NTP\HastaneProjesi_NTP\obj\Debug\HastaneProjesi_NTP.AnimasyonGirisEkranı.resources
+C:\Users\Hasan\Desktop\NTP_220541109_HASAN HÜSEYİN KILIÇ\son yedek ntp - Kopya\HastaneProjesi_NTP\HastaneProjesi_NTP\obj\Debug\HastaneProjesi_NTP.Form1.resources
+C:\Users\Hasan\Desktop\NTP_220541109_HASAN HÜSEYİN KILIÇ\son yedek ntp - Kopya\HastaneProjesi_NTP\HastaneProjesi_NTP\obj\Debug\HastaneProjesi_NTP.Formlar.AktifRandevular.resources
+C:\Users\Hasan\Desktop\NTP_220541109_HASAN HÜSEYİN KILIÇ\son yedek ntp - Kopya\HastaneProjesi_NTP\HastaneProjesi_NTP\obj\Debug\HastaneProjesi_NTP.Formlar.anasayfa.resources
+C:\Users\Hasan\Desktop\NTP_220541109_HASAN HÜSEYİN KILIÇ\son yedek ntp - Kopya\HastaneProjesi_NTP\HastaneProjesi_NTP\obj\Debug\HastaneProjesi_NTP.Formlar.Destek.resources
+C:\Users\Hasan\Desktop\NTP_220541109_HASAN HÜSEYİN KILIÇ\son yedek ntp - Kopya\HastaneProjesi_NTP\HastaneProjesi_NTP\obj\Debug\HastaneProjesi_NTP.Formlar.GecmisRandevular.resources
+C:\Users\Hasan\Desktop\NTP_220541109_HASAN HÜSEYİN KILIÇ\son yedek ntp - Kopya\HastaneProjesi_NTP\HastaneProjesi_NTP\obj\Debug\HastaneProjesi_NTP.Formlar.KayitSil.resources
+C:\Users\Hasan\Desktop\NTP_220541109_HASAN HÜSEYİN KILIÇ\son yedek ntp - Kopya\HastaneProjesi_NTP\HastaneProjesi_NTP\obj\Debug\HastaneProjesi_NTP.Formlar.KayıtDuzenle.resources
+C:\Users\Hasan\Desktop\NTP_220541109_HASAN HÜSEYİN KILIÇ\son yedek ntp - Kopya\HastaneProjesi_NTP\HastaneProjesi_NTP\obj\Debug\HastaneProjesi_NTP.Formlar.KayıtEkle.resources
+C:\Users\Hasan\Desktop\NTP_220541109_HASAN HÜSEYİN KILIÇ\son yedek ntp - Kopya\HastaneProjesi_NTP\HastaneProjesi_NTP\obj\Debug\HastaneProjesi_NTP.Formlar.RandevuSil.resources
+C:\Users\Hasan\Desktop\NTP_220541109_HASAN HÜSEYİN KILIÇ\son yedek ntp - Kopya\HastaneProjesi_NTP\HastaneProjesi_NTP\obj\Debug\HastaneProjesi_NTP.Formlar.RandevuVer.resources
+C:\Users\Hasan\Desktop\NTP_220541109_HASAN HÜSEYİN KILIÇ\son yedek ntp - Kopya\HastaneProjesi_NTP\HastaneProjesi_NTP\obj\Debug\HastaneProjesi_NTP.Formlar.sifreUnuttum.resources
+C:\Users\Hasan\Desktop\NTP_220541109_HASAN HÜSEYİN KILIÇ\son yedek ntp - Kopya\HastaneProjesi_NTP\HastaneProjesi_NTP\obj\Debug\HastaneProjesi_NTP.Formlar.sifreyenile.resources
+C:\Users\Hasan\Desktop\NTP_220541109_HASAN HÜSEYİN KILIÇ\son yedek ntp - Kopya\HastaneProjesi_NTP\HastaneProjesi_NTP\obj\Debug\HastaneProjesi_NTP.Properties.Resources.resources
+C:\Users\Hasan\Desktop\NTP_220541109_HASAN HÜSEYİN KILIÇ\son yedek ntp - Kopya\HastaneProjesi_NTP\HastaneProjesi_NTP\obj\Debug\HastaneProjesi_NTP.csproj.GenerateResource.cache
+C:\Users\Hasan\Desktop\NTP_220541109_HASAN HÜSEYİN KILIÇ\son yedek ntp - Kopya\HastaneProjesi_NTP\HastaneProjesi_NTP\obj\Debug\HastaneProjesi_NTP.csproj.CoreCompileInputs.cache
+C:\Users\Hasan\Desktop\NTP_220541109_HASAN HÜSEYİN KILIÇ\son yedek ntp - Kopya\HastaneProjesi_NTP\HastaneProjesi_NTP\obj\Debug\HastaneProjesi_NTP.csproj.CopyComplete
+C:\Users\Hasan\Desktop\NTP_220541109_HASAN HÜSEYİN KILIÇ\son yedek ntp - Kopya\HastaneProjesi_NTP\HastaneProjesi_NTP\obj\Debug\HastaneProjesi_NTP.exe
+C:\Users\Hasan\Desktop\NTP_220541109_HASAN HÜSEYİN KILIÇ\son yedek ntp - Kopya\HastaneProjesi_NTP\HastaneProjesi_NTP\obj\Debug\HastaneProjesi_NTP.pdb
+C:\Users\Hasan\Desktop\NTP_220541109_HASAN HÜSEYİN KILIÇ\HastaneProjesi_NTP\HastaneProjesi_NTP\bin\Debug\HastaneVeriTABANI.mdf
+C:\Users\Hasan\Desktop\NTP_220541109_HASAN HÜSEYİN KILIÇ\HastaneProjesi_NTP\HastaneProjesi_NTP\bin\Debug\HastaneVeriTABANI_log.ldf
+C:\Users\Hasan\Desktop\NTP_220541109_HASAN HÜSEYİN KILIÇ\HastaneProjesi_NTP\HastaneProjesi_NTP\bin\Debug\HastaneProjesi_NTP.exe.config
+C:\Users\Hasan\Desktop\NTP_220541109_HASAN HÜSEYİN KILIÇ\HastaneProjesi_NTP\HastaneProjesi_NTP\bin\Debug\HastaneProjesi_NTP.exe
+C:\Users\Hasan\Desktop\NTP_220541109_HASAN HÜSEYİN KILIÇ\HastaneProjesi_NTP\HastaneProjesi_NTP\bin\Debug\HastaneProjesi_NTP.pdb
+C:\Users\Hasan\Desktop\NTP_220541109_HASAN HÜSEYİN KILIÇ\HastaneProjesi_NTP\HastaneProjesi_NTP\bin\Debug\Bunifu_UI_v1.5.3.dll
+C:\Users\Hasan\Desktop\NTP_220541109_HASAN HÜSEYİN KILIÇ\HastaneProjesi_NTP\HastaneProjesi_NTP\bin\Debug\DevExpress.Data.Desktop.v21.2.dll
+C:\Users\Hasan\Desktop\NTP_220541109_HASAN HÜSEYİN KILIÇ\HastaneProjesi_NTP\HastaneProjesi_NTP\bin\Debug\DevExpress.Data.v21.2.dll
+C:\Users\Hasan\Desktop\NTP_220541109_HASAN HÜSEYİN KILIÇ\HastaneProjesi_NTP\HastaneProjesi_NTP\bin\Debug\DevExpress.Printing.v21.2.Core.dll
+C:\Users\Hasan\Desktop\NTP_220541109_HASAN HÜSEYİN KILIÇ\HastaneProjesi_NTP\HastaneProjesi_NTP\bin\Debug\DevExpress.Sparkline.v21.2.Core.dll
+C:\Users\Hasan\Desktop\NTP_220541109_HASAN HÜSEYİN KILIÇ\HastaneProjesi_NTP\HastaneProjesi_NTP\bin\Debug\DevExpress.Utils.v21.2.dll
+C:\Users\Hasan\Desktop\NTP_220541109_HASAN HÜSEYİN KILIÇ\HastaneProjesi_NTP\HastaneProjesi_NTP\bin\Debug\DevExpress.XtraEditors.v21.2.dll
+C:\Users\Hasan\Desktop\NTP_220541109_HASAN HÜSEYİN KILIÇ\HastaneProjesi_NTP\HastaneProjesi_NTP\bin\Debug\DevExpress.Pdf.v21.2.Core.dll
+C:\Users\Hasan\Desktop\NTP_220541109_HASAN HÜSEYİN KILIÇ\HastaneProjesi_NTP\HastaneProjesi_NTP\bin\Debug\DevExpress.Pdf.v21.2.Drawing.dll
+C:\Users\Hasan\Desktop\NTP_220541109_HASAN HÜSEYİN KILIÇ\HastaneProjesi_NTP\HastaneProjesi_NTP\bin\Debug\Bunifu_UI_v1.5.3.xml
+C:\Users\Hasan\Desktop\NTP_220541109_HASAN HÜSEYİN KILIÇ\HastaneProjesi_NTP\HastaneProjesi_NTP\bin\Debug\DevExpress.Data.Desktop.v21.2.xml
+C:\Users\Hasan\Desktop\NTP_220541109_HASAN HÜSEYİN KILIÇ\HastaneProjesi_NTP\HastaneProjesi_NTP\bin\Debug\DevExpress.Data.v21.2.xml
+C:\Users\Hasan\Desktop\NTP_220541109_HASAN HÜSEYİN KILIÇ\HastaneProjesi_NTP\HastaneProjesi_NTP\bin\Debug\DevExpress.Printing.v21.2.Core.xml
+C:\Users\Hasan\Desktop\NTP_220541109_HASAN HÜSEYİN KILIÇ\HastaneProjesi_NTP\HastaneProjesi_NTP\bin\Debug\DevExpress.Sparkline.v21.2.Core.xml
+C:\Users\Hasan\Desktop\NTP_220541109_HASAN HÜSEYİN KILIÇ\HastaneProjesi_NTP\HastaneProjesi_NTP\bin\Debug\DevExpress.Utils.v21.2.xml
+C:\Users\Hasan\Desktop\NTP_220541109_HASAN HÜSEYİN KILIÇ\HastaneProjesi_NTP\HastaneProjesi_NTP\bin\Debug\DevExpress.XtraEditors.v21.2.xml
+C:\Users\Hasan\Desktop\NTP_220541109_HASAN HÜSEYİN KILIÇ\HastaneProjesi_NTP\HastaneProjesi_NTP\bin\Debug\DevExpress.Pdf.v21.2.Core.xml
+C:\Users\Hasan\Desktop\NTP_220541109_HASAN HÜSEYİN KILIÇ\HastaneProjesi_NTP\HastaneProjesi_NTP\bin\Debug\DevExpress.Pdf.v21.2.Drawing.xml
+C:\Users\Hasan\Desktop\NTP_220541109_HASAN HÜSEYİN KILIÇ\HastaneProjesi_NTP\HastaneProjesi_NTP\bin\Debug\de\DevExpress.Data.v21.2.resources.dll
+C:\Users\Hasan\Desktop\NTP_220541109_HASAN HÜSEYİN KILIÇ\HastaneProjesi_NTP\HastaneProjesi_NTP\bin\Debug\es\DevExpress.Data.v21.2.resources.dll
+C:\Users\Hasan\Desktop\NTP_220541109_HASAN HÜSEYİN KILIÇ\HastaneProjesi_NTP\HastaneProjesi_NTP\bin\Debug\ja\DevExpress.Data.v21.2.resources.dll
+C:\Users\Hasan\Desktop\NTP_220541109_HASAN HÜSEYİN KILIÇ\HastaneProjesi_NTP\HastaneProjesi_NTP\bin\Debug\ru\DevExpress.Data.v21.2.resources.dll
+C:\Users\Hasan\Desktop\NTP_220541109_HASAN HÜSEYİN KILIÇ\HastaneProjesi_NTP\HastaneProjesi_NTP\bin\Debug\de\DevExpress.Printing.v21.2.Core.resources.dll
+C:\Users\Hasan\Desktop\NTP_220541109_HASAN HÜSEYİN KILIÇ\HastaneProjesi_NTP\HastaneProjesi_NTP\bin\Debug\es\DevExpress.Printing.v21.2.Core.resources.dll
+C:\Users\Hasan\Desktop\NTP_220541109_HASAN HÜSEYİN KILIÇ\HastaneProjesi_NTP\HastaneProjesi_NTP\bin\Debug\ja\DevExpress.Printing.v21.2.Core.resources.dll
+C:\Users\Hasan\Desktop\NTP_220541109_HASAN HÜSEYİN KILIÇ\HastaneProjesi_NTP\HastaneProjesi_NTP\bin\Debug\ru\DevExpress.Printing.v21.2.Core.resources.dll
+C:\Users\Hasan\Desktop\NTP_220541109_HASAN HÜSEYİN KILIÇ\HastaneProjesi_NTP\HastaneProjesi_NTP\bin\Debug\de\DevExpress.Sparkline.v21.2.Core.resources.dll
+C:\Users\Hasan\Desktop\NTP_220541109_HASAN HÜSEYİN KILIÇ\HastaneProjesi_NTP\HastaneProjesi_NTP\bin\Debug\es\DevExpress.Sparkline.v21.2.Core.resources.dll
+C:\Users\Hasan\Desktop\NTP_220541109_HASAN HÜSEYİN KILIÇ\HastaneProjesi_NTP\HastaneProjesi_NTP\bin\Debug\ja\DevExpress.Sparkline.v21.2.Core.resources.dll
+C:\Users\Hasan\Desktop\NTP_220541109_HASAN HÜSEYİN KILIÇ\HastaneProjesi_NTP\HastaneProjesi_NTP\bin\Debug\ru\DevExpress.Sparkline.v21.2.Core.resources.dll
+C:\Users\Hasan\Desktop\NTP_220541109_HASAN HÜSEYİN KILIÇ\HastaneProjesi_NTP\HastaneProjesi_NTP\bin\Debug\de\DevExpress.Utils.v21.2.resources.dll
+C:\Users\Hasan\Desktop\NTP_220541109_HASAN HÜSEYİN KILIÇ\HastaneProjesi_NTP\HastaneProjesi_NTP\bin\Debug\es\DevExpress.Utils.v21.2.resources.dll
+C:\Users\Hasan\Desktop\NTP_220541109_HASAN HÜSEYİN KILIÇ\HastaneProjesi_NTP\HastaneProjesi_NTP\bin\Debug\ja\DevExpress.Utils.v21.2.resources.dll
+C:\Users\Hasan\Desktop\NTP_220541109_HASAN HÜSEYİN KILIÇ\HastaneProjesi_NTP\HastaneProjesi_NTP\bin\Debug\ru\DevExpress.Utils.v21.2.resources.dll
+C:\Users\Hasan\Desktop\NTP_220541109_HASAN HÜSEYİN KILIÇ\HastaneProjesi_NTP\HastaneProjesi_NTP\bin\Debug\de\DevExpress.XtraEditors.v21.2.resources.dll
+C:\Users\Hasan\Desktop\NTP_220541109_HASAN HÜSEYİN KILIÇ\HastaneProjesi_NTP\HastaneProjesi_NTP\bin\Debug\es\DevExpress.XtraEditors.v21.2.resources.dll
+C:\Users\Hasan\Desktop\NTP_220541109_HASAN HÜSEYİN KILIÇ\HastaneProjesi_NTP\HastaneProjesi_NTP\bin\Debug\ja\DevExpress.XtraEditors.v21.2.resources.dll
+C:\Users\Hasan\Desktop\NTP_220541109_HASAN HÜSEYİN KILIÇ\HastaneProjesi_NTP\HastaneProjesi_NTP\bin\Debug\ru\DevExpress.XtraEditors.v21.2.resources.dll
+C:\Users\Hasan\Desktop\NTP_220541109_HASAN HÜSEYİN KILIÇ\HastaneProjesi_NTP\HastaneProjesi_NTP\bin\Debug\de\DevExpress.Pdf.v21.2.Core.resources.dll
+C:\Users\Hasan\Desktop\NTP_220541109_HASAN HÜSEYİN KILIÇ\HastaneProjesi_NTP\HastaneProjesi_NTP\bin\Debug\es\DevExpress.Pdf.v21.2.Core.resources.dll
+C:\Users\Hasan\Desktop\NTP_220541109_HASAN HÜSEYİN KILIÇ\HastaneProjesi_NTP\HastaneProjesi_NTP\bin\Debug\ja\DevExpress.Pdf.v21.2.Core.resources.dll
+C:\Users\Hasan\Desktop\NTP_220541109_HASAN HÜSEYİN KILIÇ\HastaneProjesi_NTP\HastaneProjesi_NTP\bin\Debug\ru\DevExpress.Pdf.v21.2.Core.resources.dll
+C:\Users\Hasan\Desktop\NTP_220541109_HASAN HÜSEYİN KILIÇ\HastaneProjesi_NTP\HastaneProjesi_NTP\obj\Debug\HastaneProjesi_NTP.csprojAssemblyReference.cache
+C:\Users\Hasan\Desktop\NTP_220541109_HASAN HÜSEYİN KILIÇ\HastaneProjesi_NTP\HastaneProjesi_NTP\obj\Debug\HastaneProjesi_NTP.AnimasyonGirisEkranı.resources
+C:\Users\Hasan\Desktop\NTP_220541109_HASAN HÜSEYİN KILIÇ\HastaneProjesi_NTP\HastaneProjesi_NTP\obj\Debug\HastaneProjesi_NTP.Form1.resources
+C:\Users\Hasan\Desktop\NTP_220541109_HASAN HÜSEYİN KILIÇ\HastaneProjesi_NTP\HastaneProjesi_NTP\obj\Debug\HastaneProjesi_NTP.Formlar.AktifRandevular.resources
+C:\Users\Hasan\Desktop\NTP_220541109_HASAN HÜSEYİN KILIÇ\HastaneProjesi_NTP\HastaneProjesi_NTP\obj\Debug\HastaneProjesi_NTP.Formlar.anasayfa.resources
+C:\Users\Hasan\Desktop\NTP_220541109_HASAN HÜSEYİN KILIÇ\HastaneProjesi_NTP\HastaneProjesi_NTP\obj\Debug\HastaneProjesi_NTP.Formlar.Destek.resources
+C:\Users\Hasan\Desktop\NTP_220541109_HASAN HÜSEYİN KILIÇ\HastaneProjesi_NTP\HastaneProjesi_NTP\obj\Debug\HastaneProjesi_NTP.Formlar.GecmisRandevular.resources
+C:\Users\Hasan\Desktop\NTP_220541109_HASAN HÜSEYİN KILIÇ\HastaneProjesi_NTP\HastaneProjesi_NTP\obj\Debug\HastaneProjesi_NTP.Formlar.KayitSil.resources
+C:\Users\Hasan\Desktop\NTP_220541109_HASAN HÜSEYİN KILIÇ\HastaneProjesi_NTP\HastaneProjesi_NTP\obj\Debug\HastaneProjesi_NTP.Formlar.KayıtDuzenle.resources
+C:\Users\Hasan\Desktop\NTP_220541109_HASAN HÜSEYİN KILIÇ\HastaneProjesi_NTP\HastaneProjesi_NTP\obj\Debug\HastaneProjesi_NTP.Formlar.KayıtEkle.resources
+C:\Users\Hasan\Desktop\NTP_220541109_HASAN HÜSEYİN KILIÇ\HastaneProjesi_NTP\HastaneProjesi_NTP\obj\Debug\HastaneProjesi_NTP.Formlar.RandevuSil.resources
+C:\Users\Hasan\Desktop\NTP_220541109_HASAN HÜSEYİN KILIÇ\HastaneProjesi_NTP\HastaneProjesi_NTP\obj\Debug\HastaneProjesi_NTP.Formlar.RandevuVer.resources
+C:\Users\Hasan\Desktop\NTP_220541109_HASAN HÜSEYİN KILIÇ\HastaneProjesi_NTP\HastaneProjesi_NTP\obj\Debug\HastaneProjesi_NTP.Formlar.sifreUnuttum.resources
+C:\Users\Hasan\Desktop\NTP_220541109_HASAN HÜSEYİN KILIÇ\HastaneProjesi_NTP\HastaneProjesi_NTP\obj\Debug\HastaneProjesi_NTP.Formlar.sifreyenile.resources
+C:\Users\Hasan\Desktop\NTP_220541109_HASAN HÜSEYİN KILIÇ\HastaneProjesi_NTP\HastaneProjesi_NTP\obj\Debug\HastaneProjesi_NTP.Properties.Resources.resources
+C:\Users\Hasan\Desktop\NTP_220541109_HASAN HÜSEYİN KILIÇ\HastaneProjesi_NTP\HastaneProjesi_NTP\obj\Debug\HastaneProjesi_NTP.csproj.GenerateResource.cache
+C:\Users\Hasan\Desktop\NTP_220541109_HASAN HÜSEYİN KILIÇ\HastaneProjesi_NTP\HastaneProjesi_NTP\obj\Debug\HastaneProjesi_NTP.csproj.CoreCompileInputs.cache
+C:\Users\Hasan\Desktop\NTP_220541109_HASAN HÜSEYİN KILIÇ\HastaneProjesi_NTP\HastaneProjesi_NTP\obj\Debug\HastaneProjesi_NTP.csproj.CopyComplete
+C:\Users\Hasan\Desktop\NTP_220541109_HASAN HÜSEYİN KILIÇ\HastaneProjesi_NTP\HastaneProjesi_NTP\obj\Debug\HastaneProjesi_NTP.exe
+C:\Users\Hasan\Desktop\NTP_220541109_HASAN HÜSEYİN KILIÇ\HastaneProjesi_NTP\HastaneProjesi_NTP\obj\Debug\HastaneProjesi_NTP.pdb
+E:\HASAN TÜM DOSYALAR ASUS 31.01.2023\TÜM DOSYALAR\NTP_220541109_HASAN HÜSEYİN KILIÇ\HastaneProjesi_NTP\HastaneProjesi_NTP\obj\Debug\HastaneProjesi_NTP.csproj.AssemblyReference.cache
+E:\HASAN TÜM DOSYALAR ASUS 31.01.2023\TÜM DOSYALAR\NTP_220541109_HASAN HÜSEYİN KILIÇ\HastaneProjesi_NTP\HastaneProjesi_NTP\obj\Debug\HastaneProjesi_NTP.csproj.SuggestedBindingRedirects.cache
+E:\HASAN TÜM DOSYALAR ASUS 31.01.2023\TÜM DOSYALAR\NTP_220541109_HASAN HÜSEYİN KILIÇ\HastaneProjesi_NTP\HastaneProjesi_NTP\obj\Debug\HastaneProjesi_NTP.AnimasyonGirisEkranı.resources
+E:\HASAN TÜM DOSYALAR ASUS 31.01.2023\TÜM DOSYALAR\NTP_220541109_HASAN HÜSEYİN KILIÇ\HastaneProjesi_NTP\HastaneProjesi_NTP\obj\Debug\HastaneProjesi_NTP.Form1.resources
+E:\HASAN TÜM DOSYALAR ASUS 31.01.2023\TÜM DOSYALAR\NTP_220541109_HASAN HÜSEYİN KILIÇ\HastaneProjesi_NTP\HastaneProjesi_NTP\obj\Debug\HastaneProjesi_NTP.Formlar.AktifRandevular.resources
+E:\HASAN TÜM DOSYALAR ASUS 31.01.2023\TÜM DOSYALAR\NTP_220541109_HASAN HÜSEYİN KILIÇ\HastaneProjesi_NTP\HastaneProjesi_NTP\obj\Debug\HastaneProjesi_NTP.Formlar.anasayfa.resources
+E:\HASAN TÜM DOSYALAR ASUS 31.01.2023\TÜM DOSYALAR\NTP_220541109_HASAN HÜSEYİN KILIÇ\HastaneProjesi_NTP\HastaneProjesi_NTP\obj\Debug\HastaneProjesi_NTP.Formlar.Destek.resources
+E:\HASAN TÜM DOSYALAR ASUS 31.01.2023\TÜM DOSYALAR\NTP_220541109_HASAN HÜSEYİN KILIÇ\HastaneProjesi_NTP\HastaneProjesi_NTP\obj\Debug\HastaneProjesi_NTP.Formlar.GecmisRandevular.resources
+E:\HASAN TÜM DOSYALAR ASUS 31.01.2023\TÜM DOSYALAR\NTP_220541109_HASAN HÜSEYİN KILIÇ\HastaneProjesi_NTP\HastaneProjesi_NTP\obj\Debug\HastaneProjesi_NTP.Formlar.KayitSil.resources
+E:\HASAN TÜM DOSYALAR ASUS 31.01.2023\TÜM DOSYALAR\NTP_220541109_HASAN HÜSEYİN KILIÇ\HastaneProjesi_NTP\HastaneProjesi_NTP\obj\Debug\HastaneProjesi_NTP.Formlar.KayıtDuzenle.resources
+E:\HASAN TÜM DOSYALAR ASUS 31.01.2023\TÜM DOSYALAR\NTP_220541109_HASAN HÜSEYİN KILIÇ\HastaneProjesi_NTP\HastaneProjesi_NTP\obj\Debug\HastaneProjesi_NTP.Formlar.KayıtEkle.resources
+E:\HASAN TÜM DOSYALAR ASUS 31.01.2023\TÜM DOSYALAR\NTP_220541109_HASAN HÜSEYİN KILIÇ\HastaneProjesi_NTP\HastaneProjesi_NTP\obj\Debug\HastaneProjesi_NTP.Formlar.RandevuSil.resources
+E:\HASAN TÜM DOSYALAR ASUS 31.01.2023\TÜM DOSYALAR\NTP_220541109_HASAN HÜSEYİN KILIÇ\HastaneProjesi_NTP\HastaneProjesi_NTP\obj\Debug\HastaneProjesi_NTP.Formlar.RandevuVer.resources
+E:\HASAN TÜM DOSYALAR ASUS 31.01.2023\TÜM DOSYALAR\NTP_220541109_HASAN HÜSEYİN KILIÇ\HastaneProjesi_NTP\HastaneProjesi_NTP\obj\Debug\HastaneProjesi_NTP.Formlar.sifreUnuttum.resources
+E:\HASAN TÜM DOSYALAR ASUS 31.01.2023\TÜM DOSYALAR\NTP_220541109_HASAN HÜSEYİN KILIÇ\HastaneProjesi_NTP\HastaneProjesi_NTP\obj\Debug\HastaneProjesi_NTP.Formlar.sifreyenile.resources
+E:\HASAN TÜM DOSYALAR ASUS 31.01.2023\TÜM DOSYALAR\NTP_220541109_HASAN HÜSEYİN KILIÇ\HastaneProjesi_NTP\HastaneProjesi_NTP\obj\Debug\HastaneProjesi_NTP.Properties.Resources.resources
+E:\HASAN TÜM DOSYALAR ASUS 31.01.2023\TÜM DOSYALAR\NTP_220541109_HASAN HÜSEYİN KILIÇ\HastaneProjesi_NTP\HastaneProjesi_NTP\obj\Debug\HastaneProjesi_NTP.csproj.GenerateResource.cache
+E:\HASAN TÜM DOSYALAR ASUS 31.01.2023\TÜM DOSYALAR\NTP_220541109_HASAN HÜSEYİN KILIÇ\HastaneProjesi_NTP\HastaneProjesi_NTP\obj\Debug\HastaneProjesi_NTP.csproj.CoreCompileInputs.cache
+E:\HASAN TÜM DOSYALAR ASUS 31.01.2023\TÜM DOSYALAR\NTP_220541109_HASAN HÜSEYİN KILIÇ\HastaneProjesi_NTP\HastaneProjesi_NTP\obj\Debug\HastaneProjesi_NTP.exe
+E:\HASAN TÜM DOSYALAR ASUS 31.01.2023\TÜM DOSYALAR\NTP_220541109_HASAN HÜSEYİN KILIÇ\HastaneProjesi_NTP\HastaneProjesi_NTP\obj\Debug\HastaneProjesi_NTP.pdb
+C:\Users\Lenovo\OneDrive\Masaüstü\NTP_220541109_HASAN HÜSEYİN KILIÇ\HastaneProjesi_NTP\HastaneProjesi_NTP\bin\Debug\HastaneVeriTABANI.mdf
+C:\Users\Lenovo\OneDrive\Masaüstü\NTP_220541109_HASAN HÜSEYİN KILIÇ\HastaneProjesi_NTP\HastaneProjesi_NTP\bin\Debug\HastaneVeriTABANI_log.ldf
+C:\Users\Lenovo\OneDrive\Masaüstü\NTP_220541109_HASAN HÜSEYİN KILIÇ\HastaneProjesi_NTP\HastaneProjesi_NTP\bin\Debug\HastaneProjesi_NTP.exe.config
+C:\Users\Lenovo\OneDrive\Masaüstü\NTP_220541109_HASAN HÜSEYİN KILIÇ\HastaneProjesi_NTP\HastaneProjesi_NTP\bin\Debug\HastaneProjesi_NTP.exe
+C:\Users\Lenovo\OneDrive\Masaüstü\NTP_220541109_HASAN HÜSEYİN KILIÇ\HastaneProjesi_NTP\HastaneProjesi_NTP\bin\Debug\HastaneProjesi_NTP.pdb
+C:\Users\Lenovo\OneDrive\Masaüstü\NTP_220541109_HASAN HÜSEYİN KILIÇ\HastaneProjesi_NTP\HastaneProjesi_NTP\bin\Debug\Bunifu_UI_v1.5.3.dll
+C:\Users\Lenovo\OneDrive\Masaüstü\NTP_220541109_HASAN HÜSEYİN KILIÇ\HastaneProjesi_NTP\HastaneProjesi_NTP\bin\Debug\DevExpress.Pdf.v21.2.Core.dll
+C:\Users\Lenovo\OneDrive\Masaüstü\NTP_220541109_HASAN HÜSEYİN KILIÇ\HastaneProjesi_NTP\HastaneProjesi_NTP\bin\Debug\DevExpress.Pdf.v21.2.Drawing.dll
+C:\Users\Lenovo\OneDrive\Masaüstü\NTP_220541109_HASAN HÜSEYİN KILIÇ\HastaneProjesi_NTP\HastaneProjesi_NTP\bin\Debug\Bunifu_UI_v1.5.3.xml
+C:\Users\Lenovo\OneDrive\Masaüstü\NTP_220541109_HASAN HÜSEYİN KILIÇ\HastaneProjesi_NTP\HastaneProjesi_NTP\bin\Debug\DevExpress.Data.Desktop.v21.2.xml
+C:\Users\Lenovo\OneDrive\Masaüstü\NTP_220541109_HASAN HÜSEYİN KILIÇ\HastaneProjesi_NTP\HastaneProjesi_NTP\bin\Debug\DevExpress.Data.v21.2.xml
+C:\Users\Lenovo\OneDrive\Masaüstü\NTP_220541109_HASAN HÜSEYİN KILIÇ\HastaneProjesi_NTP\HastaneProjesi_NTP\bin\Debug\DevExpress.Printing.v21.2.Core.xml
+C:\Users\Lenovo\OneDrive\Masaüstü\NTP_220541109_HASAN HÜSEYİN KILIÇ\HastaneProjesi_NTP\HastaneProjesi_NTP\bin\Debug\DevExpress.Sparkline.v21.2.Core.xml
+C:\Users\Lenovo\OneDrive\Masaüstü\NTP_220541109_HASAN HÜSEYİN KILIÇ\HastaneProjesi_NTP\HastaneProjesi_NTP\bin\Debug\DevExpress.Utils.v21.2.xml
+C:\Users\Lenovo\OneDrive\Masaüstü\NTP_220541109_HASAN HÜSEYİN KILIÇ\HastaneProjesi_NTP\HastaneProjesi_NTP\bin\Debug\DevExpress.XtraEditors.v21.2.xml
+C:\Users\Lenovo\OneDrive\Masaüstü\NTP_220541109_HASAN HÜSEYİN KILIÇ\HastaneProjesi_NTP\HastaneProjesi_NTP\bin\Debug\DevExpress.Pdf.v21.2.Core.xml
+C:\Users\Lenovo\OneDrive\Masaüstü\NTP_220541109_HASAN HÜSEYİN KILIÇ\HastaneProjesi_NTP\HastaneProjesi_NTP\bin\Debug\DevExpress.Pdf.v21.2.Drawing.xml
+C:\Users\Lenovo\OneDrive\Masaüstü\NTP_220541109_HASAN HÜSEYİN KILIÇ\HastaneProjesi_NTP\HastaneProjesi_NTP\bin\Debug\de\DevExpress.Data.v21.2.resources.dll
+C:\Users\Lenovo\OneDrive\Masaüstü\NTP_220541109_HASAN HÜSEYİN KILIÇ\HastaneProjesi_NTP\HastaneProjesi_NTP\bin\Debug\es\DevExpress.Data.v21.2.resources.dll
+C:\Users\Lenovo\OneDrive\Masaüstü\NTP_220541109_HASAN HÜSEYİN KILIÇ\HastaneProjesi_NTP\HastaneProjesi_NTP\bin\Debug\ja\DevExpress.Data.v21.2.resources.dll
+C:\Users\Lenovo\OneDrive\Masaüstü\NTP_220541109_HASAN HÜSEYİN KILIÇ\HastaneProjesi_NTP\HastaneProjesi_NTP\bin\Debug\ru\DevExpress.Data.v21.2.resources.dll
+C:\Users\Lenovo\OneDrive\Masaüstü\NTP_220541109_HASAN HÜSEYİN KILIÇ\HastaneProjesi_NTP\HastaneProjesi_NTP\bin\Debug\de\DevExpress.Printing.v21.2.Core.resources.dll
+C:\Users\Lenovo\OneDrive\Masaüstü\NTP_220541109_HASAN HÜSEYİN KILIÇ\HastaneProjesi_NTP\HastaneProjesi_NTP\bin\Debug\es\DevExpress.Printing.v21.2.Core.resources.dll
+C:\Users\Lenovo\OneDrive\Masaüstü\NTP_220541109_HASAN HÜSEYİN KILIÇ\HastaneProjesi_NTP\HastaneProjesi_NTP\bin\Debug\ja\DevExpress.Printing.v21.2.Core.resources.dll
+C:\Users\Lenovo\OneDrive\Masaüstü\NTP_220541109_HASAN HÜSEYİN KILIÇ\HastaneProjesi_NTP\HastaneProjesi_NTP\bin\Debug\ru\DevExpress.Printing.v21.2.Core.resources.dll
+C:\Users\Lenovo\OneDrive\Masaüstü\NTP_220541109_HASAN HÜSEYİN KILIÇ\HastaneProjesi_NTP\HastaneProjesi_NTP\bin\Debug\de\DevExpress.Sparkline.v21.2.Core.resources.dll
+C:\Users\Lenovo\OneDrive\Masaüstü\NTP_220541109_HASAN HÜSEYİN KILIÇ\HastaneProjesi_NTP\HastaneProjesi_NTP\bin\Debug\es\DevExpress.Sparkline.v21.2.Core.resources.dll
+C:\Users\Lenovo\OneDrive\Masaüstü\NTP_220541109_HASAN HÜSEYİN KILIÇ\HastaneProjesi_NTP\HastaneProjesi_NTP\bin\Debug\ja\DevExpress.Sparkline.v21.2.Core.resources.dll
+C:\Users\Lenovo\OneDrive\Masaüstü\NTP_220541109_HASAN HÜSEYİN KILIÇ\HastaneProjesi_NTP\HastaneProjesi_NTP\bin\Debug\ru\DevExpress.Sparkline.v21.2.Core.resources.dll
+C:\Users\Lenovo\OneDrive\Masaüstü\NTP_220541109_HASAN HÜSEYİN KILIÇ\HastaneProjesi_NTP\HastaneProjesi_NTP\bin\Debug\de\DevExpress.Utils.v21.2.resources.dll
+C:\Users\Lenovo\OneDrive\Masaüstü\NTP_220541109_HASAN HÜSEYİN KILIÇ\HastaneProjesi_NTP\HastaneProjesi_NTP\bin\Debug\es\DevExpress.Utils.v21.2.resources.dll
+C:\Users\Lenovo\OneDrive\Masaüstü\NTP_220541109_HASAN HÜSEYİN KILIÇ\HastaneProjesi_NTP\HastaneProjesi_NTP\bin\Debug\ja\DevExpress.Utils.v21.2.resources.dll
+C:\Users\Lenovo\OneDrive\Masaüstü\NTP_220541109_HASAN HÜSEYİN KILIÇ\HastaneProjesi_NTP\HastaneProjesi_NTP\bin\Debug\ru\DevExpress.Utils.v21.2.resources.dll
+C:\Users\Lenovo\OneDrive\Masaüstü\NTP_220541109_HASAN HÜSEYİN KILIÇ\HastaneProjesi_NTP\HastaneProjesi_NTP\bin\Debug\de\DevExpress.XtraEditors.v21.2.resources.dll
+C:\Users\Lenovo\OneDrive\Masaüstü\NTP_220541109_HASAN HÜSEYİN KILIÇ\HastaneProjesi_NTP\HastaneProjesi_NTP\bin\Debug\es\DevExpress.XtraEditors.v21.2.resources.dll
+C:\Users\Lenovo\OneDrive\Masaüstü\NTP_220541109_HASAN HÜSEYİN KILIÇ\HastaneProjesi_NTP\HastaneProjesi_NTP\bin\Debug\ja\DevExpress.XtraEditors.v21.2.resources.dll
+C:\Users\Lenovo\OneDrive\Masaüstü\NTP_220541109_HASAN HÜSEYİN KILIÇ\HastaneProjesi_NTP\HastaneProjesi_NTP\bin\Debug\ru\DevExpress.XtraEditors.v21.2.resources.dll
+C:\Users\Lenovo\OneDrive\Masaüstü\NTP_220541109_HASAN HÜSEYİN KILIÇ\HastaneProjesi_NTP\HastaneProjesi_NTP\bin\Debug\de\DevExpress.Pdf.v21.2.Core.resources.dll
+C:\Users\Lenovo\OneDrive\Masaüstü\NTP_220541109_HASAN HÜSEYİN KILIÇ\HastaneProjesi_NTP\HastaneProjesi_NTP\bin\Debug\es\DevExpress.Pdf.v21.2.Core.resources.dll
+C:\Users\Lenovo\OneDrive\Masaüstü\NTP_220541109_HASAN HÜSEYİN KILIÇ\HastaneProjesi_NTP\HastaneProjesi_NTP\bin\Debug\ja\DevExpress.Pdf.v21.2.Core.resources.dll
+C:\Users\Lenovo\OneDrive\Masaüstü\NTP_220541109_HASAN HÜSEYİN KILIÇ\HastaneProjesi_NTP\HastaneProjesi_NTP\bin\Debug\ru\DevExpress.Pdf.v21.2.Core.resources.dll
+C:\Users\Lenovo\OneDrive\Masaüstü\NTP_220541109_HASAN HÜSEYİN KILIÇ\HastaneProjesi_NTP\HastaneProjesi_NTP\obj\Debug\HastaneProjesi_NTP.csprojAssemblyReference.cache
+C:\Users\Lenovo\OneDrive\Masaüstü\NTP_220541109_HASAN HÜSEYİN KILIÇ\HastaneProjesi_NTP\HastaneProjesi_NTP\obj\Debug\HastaneProjesi_NTP.AnimasyonGirisEkranı.resources
+C:\Users\Lenovo\OneDrive\Masaüstü\NTP_220541109_HASAN HÜSEYİN KILIÇ\HastaneProjesi_NTP\HastaneProjesi_NTP\obj\Debug\HastaneProjesi_NTP.Form1.resources
+C:\Users\Lenovo\OneDrive\Masaüstü\NTP_220541109_HASAN HÜSEYİN KILIÇ\HastaneProjesi_NTP\HastaneProjesi_NTP\obj\Debug\HastaneProjesi_NTP.Formlar.AktifRandevular.resources
+C:\Users\Lenovo\OneDrive\Masaüstü\NTP_220541109_HASAN HÜSEYİN KILIÇ\HastaneProjesi_NTP\HastaneProjesi_NTP\obj\Debug\HastaneProjesi_NTP.Formlar.anasayfa.resources
+C:\Users\Lenovo\OneDrive\Masaüstü\NTP_220541109_HASAN HÜSEYİN KILIÇ\HastaneProjesi_NTP\HastaneProjesi_NTP\obj\Debug\HastaneProjesi_NTP.Formlar.Destek.resources
+C:\Users\Lenovo\OneDrive\Masaüstü\NTP_220541109_HASAN HÜSEYİN KILIÇ\HastaneProjesi_NTP\HastaneProjesi_NTP\obj\Debug\HastaneProjesi_NTP.Formlar.GecmisRandevular.resources
+C:\Users\Lenovo\OneDrive\Masaüstü\NTP_220541109_HASAN HÜSEYİN KILIÇ\HastaneProjesi_NTP\HastaneProjesi_NTP\obj\Debug\HastaneProjesi_NTP.Formlar.KayitSil.resources
+C:\Users\Lenovo\OneDrive\Masaüstü\NTP_220541109_HASAN HÜSEYİN KILIÇ\HastaneProjesi_NTP\HastaneProjesi_NTP\obj\Debug\HastaneProjesi_NTP.Formlar.KayıtDuzenle.resources
+C:\Users\Lenovo\OneDrive\Masaüstü\NTP_220541109_HASAN HÜSEYİN KILIÇ\HastaneProjesi_NTP\HastaneProjesi_NTP\obj\Debug\HastaneProjesi_NTP.Formlar.KayıtEkle.resources
+C:\Users\Lenovo\OneDrive\Masaüstü\NTP_220541109_HASAN HÜSEYİN KILIÇ\HastaneProjesi_NTP\HastaneProjesi_NTP\obj\Debug\HastaneProjesi_NTP.Formlar.RandevuSil.resources
+C:\Users\Lenovo\OneDrive\Masaüstü\NTP_220541109_HASAN HÜSEYİN KILIÇ\HastaneProjesi_NTP\HastaneProjesi_NTP\obj\Debug\HastaneProjesi_NTP.Formlar.RandevuVer.resources
+C:\Users\Lenovo\OneDrive\Masaüstü\NTP_220541109_HASAN HÜSEYİN KILIÇ\HastaneProjesi_NTP\HastaneProjesi_NTP\obj\Debug\HastaneProjesi_NTP.Formlar.sifreUnuttum.resources
+C:\Users\Lenovo\OneDrive\Masaüstü\NTP_220541109_HASAN HÜSEYİN KILIÇ\HastaneProjesi_NTP\HastaneProjesi_NTP\obj\Debug\HastaneProjesi_NTP.Formlar.sifreyenile.resources
+C:\Users\Lenovo\OneDrive\Masaüstü\NTP_220541109_HASAN HÜSEYİN KILIÇ\HastaneProjesi_NTP\HastaneProjesi_NTP\obj\Debug\HastaneProjesi_NTP.Properties.Resources.resources
+C:\Users\Lenovo\OneDrive\Masaüstü\NTP_220541109_HASAN HÜSEYİN KILIÇ\HastaneProjesi_NTP\HastaneProjesi_NTP\obj\Debug\HastaneProjesi_NTP.csproj.GenerateResource.cache
+C:\Users\Lenovo\OneDrive\Masaüstü\NTP_220541109_HASAN HÜSEYİN KILIÇ\HastaneProjesi_NTP\HastaneProjesi_NTP\obj\Debug\HastaneProjesi_NTP.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\OneDrive\Masaüstü\NTP_220541109_HASAN HÜSEYİN KILIÇ\HastaneProjesi_NTP\HastaneProjesi_NTP\obj\Debug\HastaneProjesi_NTP.csproj.CopyComplete
+C:\Users\Lenovo\OneDrive\Masaüstü\NTP_220541109_HASAN HÜSEYİN KILIÇ\HastaneProjesi_NTP\HastaneProjesi_NTP\obj\Debug\HastaneProjesi_NTP.exe
+C:\Users\Lenovo\OneDrive\Masaüstü\NTP_220541109_HASAN HÜSEYİN KILIÇ\HastaneProjesi_NTP\HastaneProjesi_NTP\obj\Debug\HastaneProjesi_NTP.pdb
